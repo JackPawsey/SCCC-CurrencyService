@@ -1,3 +1,7 @@
+# CurrencySerivce
+
+Uni third year coursework
+
 Currency converter communicates to the Shares Brokering Service via the SOAP protocol.
 
 It provides two web services:  
